@@ -14,7 +14,7 @@ Living inside a beautiful, glassmorphic overlay, EvinceAI empowers you to contro
 
 ---
 
-## ⚠️ Platform Note
+## Platform Note
 
 EvinceAI is currently **optimized for Windows devices only**.
 
