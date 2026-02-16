@@ -22,19 +22,6 @@ macOS and Linux support are planned, but native effects and system-level tooling
 
 ---
 
-## Preview
-
-A glimpse into EvinceAI’s glassmorphic, always-on-top AI OS layer:
-
-![EvinceAI UI Preview 1](assets/Evince1.jpeg)
-![EvinceAI UI Preview 2](assets/Evince2.jpeg)
-![EvinceAI UI Preview 3](assets/Evince3.jpeg)
-![EvinceAI UI Preview 4](assets/Evince4.jpeg)
-
-> Designed as a lightweight, transparent overlay that feels native to your operating system — fast, fluid, and distraction-free.
-
----
-
 ## Features
 
 - **Glassmorphic UI**  
